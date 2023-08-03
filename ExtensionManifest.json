@@ -1,0 +1,10 @@
+{
+    "type": "IconPack",
+    "name": "StreamDeckIconPack",
+    "author": "LegendaryB",
+    "repository": "",
+    "packageId": "LegendaryB.StreamDeckIconPack",
+    "version": "1.0.0",
+    "target-plugin-api-version": 32,
+    "dll": ""
+  }
